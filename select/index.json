@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Because... ～あなたがいた～ feat. Noa（feat. Noa）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-12T14:33:41.004965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Because Of",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/01_Because_Of_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Because Of You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_Because_Of_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Because Of You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/03_Because_Of_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Because You Love Me",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/04_Because_You_Love_Me_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Because of Your Love",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_Because_of_Your_Love_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Way Ticket (Because I Can)",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/06_One_Way_Ticket_(Because_I_Can)_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Because You're Young - 2017 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Because_You're_Young_-_2017_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Because You're Young",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Because_You're_Young_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Love You Because",
+      "artist": "Jim Reeves",
+      "has_synced": true,
+      "path": "select/09_I_Love_You_Because_Jim_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "...Because I'm Young Arrogant and Hate Everything You Stand For",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/10_...Because_I'm_Young_Arrogant_and_Hate_Everything_You_Stand_For_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Because You're Frightened",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/11_Because_You're_Frightened_Magazine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold Me Just Because",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/12_Hold_Me_Just_Because_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just Because I Do",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/13_Just_Because_I_Do_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Suicide Kiss (Because Dead)",
+      "artist": "Orion Rigel Dommisse",
+      "has_synced": false,
+      "path": "select/14_Suicide_Kiss_(Because_Dead)_Orion_Rigel_Dommisse.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Because of You",
+      "artist": "Scanty Sandwich",
+      "has_synced": false,
+      "path": "select/15_Because_of_You_Scanty_Sandwich.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Because...",
+      "artist": "LGYankees Feat. 中村舞子",
+      "has_synced": false,
+      "path": "select/pl_01_Because..._LGYankees_Feat._中村舞子.txt"
+    }
+  ]
+}
